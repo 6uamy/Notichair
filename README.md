@@ -147,7 +147,7 @@ Firebase Authentication 설정하기
 ### 3. 마이페이지<br>
 
 <h4>하드웨어 구성</h4>
-![방석센서34](https://user-images.githubusercontent.com/74412438/148797607-0f518d6c-9bb3-47d4-9348-aca511603b3c.png)
+<img src = "https://user-images.githubusercontent.com/74412438/148797607-0f518d6c-9bb3-47d4-9348-aca511603b3c.png">
 
 
 
